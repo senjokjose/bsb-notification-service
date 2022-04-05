@@ -6,10 +6,10 @@ This application has a dedicated database called notification database to store 
 
 
 ### Technologies used
-Springboot
-JDK 11
-Postgres
-ActiveMQ
+1. Springboot
+2. JDK 11
+3. Postgres
+4. ActiveMQ
 
 
 ### Assumptions
